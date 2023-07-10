@@ -1,1 +1,49 @@
-
+h1{
+    text-align: center;
+    color: rgb(58, 137, 255);
+}
+div{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-evenly;
+}
+.list{
+    list-style-type: none;
+    color: aquamarine;
+}
+.Telegram{
+    display: block;
+    max-width: 195px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+}
+body{
+    background-image: url("1641909822_11-damion-club-p-fon-dlya-chata-v-telegram-11.jpg");
+}
+.box{
+    color: aquamarine;
+   width: 186px;
+   margin-left: 400px;
+   
+}
+.wrapper{
+    display: flex;
+    gap: 40px;
+    border: 5px solid rgb(29, 124, 197);
+}
+.cat{
+    color: aquamarine;
+    width: 186px;
+    margin-right: -100px;
+}
+.blo{
+    color: aquamarine;
+    width: 186px;
+    margin-right: -200px;
+}
+.hus{
+    color: aquamarine;
+    width: 186px;
+    margin-right: -600px;
+}
